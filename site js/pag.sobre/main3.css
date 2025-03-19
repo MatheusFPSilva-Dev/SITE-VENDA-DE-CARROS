@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 0;
+}
+.cabeca
+{
+ background-color: rgb(248, 40, 40);
+ padding-top: 1px;
+ padding-bottom: 1px;
+ padding-left: 1cm;
+ font-size: large;
+ font-weight: lighter;
+ 
+}
+.titulo{
+    
+    padding-left: 12cm;
+    margin-left: -1cm;
+    background-color: rgb(255, 68, 68);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+   
+}
+
+.menus{
+    background-color: rgb(255, 213, 213);
+    font-size: large;
+   border: 2px solid black;
+   padding-top: 12px;
+   padding-bottom: 9px;
+   display: inline-flexbox;
+}
+.linkA{
+    text-decoration: none;
+    color: black;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border: 1px solid black;
+}
+.linkB{
+    text-decoration: none;
+    color: black;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    margin-right: 1cm;
+    border: 1px solid black;
+}
+.linkC{
+    text-decoration: none;
+    color: black;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    margin-right: 1cm;
+    border: 1px solid black;
+}
+
+.oquefazemos{
+    margin-left: 0.5cm;
+    text-align: left;
+    font-family: "Times New Roman", Times, serif
+}
+.nossamissao{
+    margin-left: 0.5cm;
+    text-align: left;
+    font-family: "Times New Roman", Times, serif
+    
+}
+
